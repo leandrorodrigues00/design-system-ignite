@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "turbo run dev --parallel",
+    "build": "turbo run build"
+  },
+  "devDependencies": {
+    "turbo": "^1.7.0",
+    "vite": "^4.0.4"
+  },
+  "dependencies": {
+    "node": "^16.18.0"
+  }
+}
