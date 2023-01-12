@@ -7,7 +7,15 @@ export default {
 
   args: {
     src: 'https://github.com/diego3g.png',
-    alt: 'Leandro Rodrigues',
+    alt: 'Diego3g git',
+  },
+
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
   },
 } as Meta<AvatarProps>
 
