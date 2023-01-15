@@ -6,7 +6,7 @@ export default {
   component: Box,
 
   args: {
-    children: <Text>Testando o elemento Box</Text>,
+    children: <Text>Testing the Box element</Text>,
   },
 
   argTypes: {
