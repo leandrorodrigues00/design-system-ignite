@@ -1,0 +1,2 @@
+import{e as t}from"./index-e3947a17.js";import"./index-fdf2b0d9.js";import"./es.object.get-own-property-descriptor-e1434d3f.js";import"./index-fd0bd2fb.js";import"./jsx-runtime-85d5c9ba.js";const p={title:"Overlay/Tooltip",component:t,args:{text:"October 26 - Available",side:"bottom",sideOffset:5},argTypes:{side:{options:["top","right","bottom","left"],control:{type:"inline-radio"}}}},a={},m={args:{isOpen:!0}},n=["Primary","ActiveStatus"];export{m as ActiveStatus,a as Primary,n as __namedExportsOrder,p as default};
+//# sourceMappingURL=Tooltip.stories-2bbe0a0c.js.map
